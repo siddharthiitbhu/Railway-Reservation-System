@@ -7,7 +7,7 @@ The languages used are Javascript, HTML and CSS.<br><br>
 The project is made using NodeJS. Visit [NodeJS](https://nodejs.org/en/download/) for more information on how to install NodeJs on your system.
 
 ## Building
-- Clone the repository with `git clone https://github.com/saukr1006/Railway-Reservation-Management.git`
+- Clone the repository with `git clone https://github.com/siddharthiitbhu/Railway-Reservation-System`
 - Run `npm install` to install all the node dependencies.
 - Start the mongodb server.
 - Enter `npm run start` to start the server on the specified port (default 3000).
